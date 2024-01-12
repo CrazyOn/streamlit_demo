@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 def main():
-    st.title("Hello World!")
+    st.title("Hello 凌一和萌萌!")
     st.write("Welcome to Streamlit!")
     # 创建一个 DataFrame
     data = pd.DataFrame(np.random.randn(20, 3), columns=['A', 'B', 'C'])
